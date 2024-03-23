@@ -76,6 +76,7 @@ img {
 
 .header > .container {
   display: flex;
+  justify-content: space-between;
 }
 
 .header-nav {
@@ -105,7 +106,6 @@ img {
   display: flex;
   padding-left: 0;
   gap: 40px;
-  margin-right: 332px;
 }
 
 .header-link {
